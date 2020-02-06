@@ -1,4 +1,4 @@
 # Add your variables here
 first_number = 1
 second_number= 2 
-third_number= 
+third_number= 1
